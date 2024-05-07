@@ -10,6 +10,11 @@
             bindings = <&kp ESC>;
             key-positions = <31 32>;
         };
+
+        df_enter {
+            bindings = <&kp ENTER>;
+            key-positions = <28 27>;
+        };
     };
 
     keymap {
